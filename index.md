@@ -44,7 +44,7 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### who am I?  
 
-### My simple goal: to be a outstanding SDE.  
+### My simple goal: Always be curious and keep learning.  
   
-I am hard worker with strong interpersonal skills, experienced in working with diverse groups. I am creative, open-minded and easygoing and I enjoy working with others and I try to use all of these qualities in tasks I have been given. I have performed many administrative tasks with quality and have won some competitions. I have excellent work ethics and a positive attitude.
+I am highly motivated and enthusiastic to learn new technology and solve challenging problems. I am hard worker with strong programming skills. I am creative, open-minded and easygoing and I enjoy working with others and I try to use all of these qualities in tasks I have been given. I have excellent work ethics and a positive attitude.
 
