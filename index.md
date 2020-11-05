@@ -15,9 +15,9 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+# twitter_username: notsaragong # # your twitter handle
+github_username:  fanchenjie # your github username
+linkedin: saragongchenjie-fan-a79259b5 # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
@@ -37,7 +37,7 @@ portfolio_description: some portfolio showcasing of my work # a description to b
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+cta_button: mailto:fanchenjie@seattleu.edu # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
