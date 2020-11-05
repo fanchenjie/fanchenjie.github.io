@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Hello, I am Chenjie Fan
+author: Chenjie Fan
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  Full-Stack Software Development Engineer
 baseurl: ""
 
 plugins:
