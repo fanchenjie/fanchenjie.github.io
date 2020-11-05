@@ -9,7 +9,7 @@ work:
       - item: example.html
         image: /images/TRIVIA2.png
       - item: example2.html
-        image: /images/TRIVIA3.jpg
+        image: /images/TRIVIA3.png
 
   - category: Fyyur
     items:
